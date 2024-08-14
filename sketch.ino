@@ -1,6 +1,3 @@
-//Desenvolva um programa onde o usuário digita um número de entrada e o
-//dispositivo pisca o led na quantidade de vezes que foi informado.
-
 const int ledPin = 17;
 int piscar = 0;
 
